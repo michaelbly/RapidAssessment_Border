@@ -1,0 +1,313 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max","repeat.var","repeat.var.value","p.value"
+"1","location_interview",NA,"border_rabea","NA","90% (85%-95%)",NA,0.84769375927532,0.95230624072468,NA,NA,NA
+"2","location_interview",NA,"rc_Sahila","NA","10% (5%-15%)",NA,0.04769375927532,0.15230624072468,NA,NA,NA
+"3","gender_ki",NA,"female","NA","31% (23%-39%)",NA,0.230394186885501,0.391828035336721,NA,NA,NA
+"4","gender_ki",NA,"male","NA","69% (61%-77%)",NA,0.608171964663279,0.769605813114499,NA,NA,NA
+"dependent.var","nationality_ki",NA,"syrian","NA","100% ",NA,NA,NA,NA,NA,NA
+"dependent.var1","nationality_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"17","residency",NA,"no","NA","96% (92%-99%)",NA,0.919624583598945,0.991486527512166,NA,NA,NA
+"21","residency",NA,"yes","NA","4% (1%-8%)",NA,0.00851347248783383,0.080375416401055,NA,NA,NA
+"dependent.var2","arrive_syria",NA,"yes","NA","100% ",NA,NA,NA,NA,NA,NA
+"18","reason_displace",NA,"airstrikes","NA","68% (60%-76%)",NA,0.596297282443968,0.759258273111587,NA,NA,NA
+"22","reason_displace",NA,"arrival_military","NA","26% (18%-33%)",NA,0.179506983576934,0.331604127534177,NA,NA,NA
+"31","reason_displace",NA,"home_destroyed","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"41","reason_displace",NA,"other_home_destr","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"19","date_left",NA,"more_than_three","NA","11% (6%-17%)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"23","date_left",NA,"three_days","NA","9% (4%-14%)",NA,0.0392706136661932,0.138507164111585,NA,NA,NA
+"32","date_left",NA,"two_days","NA","10% (5%-15%)",NA,0.04769375927532,0.15230624072468,NA,NA,NA
+"42","date_left",NA,"week","NA","21% (14%-28%)",NA,0.139957701020816,0.282264521201406,NA,NA,NA
+"5","date_left",NA,"yesterday","NA","49% (40%-58%)",NA,0.401733348874455,0.576044428903323,NA,NA,NA
+"dependent.var3","male_0_17","na","NA","NA","2.49 (2.1-3)",NA,2.09967633233623,2.87810144544155,NA,NA,NA
+"dependent.var4","female_0_17","na","NA","NA","2.63 (2.16-3)",NA,2.15658820605135,3.11007846061532,NA,NA,NA
+"dependent.var5","male_18_60","na","NA","NA","2.21 (1.84-3)",NA,1.84400518141337,2.57821704080885,NA,NA,NA
+"dependent.var6","female_18_60","na","NA","NA","2.41 (1.99-3)",NA,1.98888885667096,2.83333336555126,NA,NA,NA
+"dependent.var7","male_60","na","NA","NA","0.09 (0.03-0)",NA,0.0328753666571713,0.144902411120607,NA,NA,NA
+"dependent.var8","female_60","na","NA","NA","0.12 (0.06-0)",NA,0.0594774585129598,0.184966985931485,NA,NA,NA
+"dependent.var9","group_size","na","NA","NA","9.96 (8.54-11)",NA,8.53744878629896,11.3736623248122,NA,NA,NA
+"110","unaccompanied",NA,"no","NA","88% (82%-93%)",NA,0.820669425182004,0.934886130373552,NA,NA,NA
+"24","unaccompanied",NA,"yes","NA","12% (7%-18%)",NA,0.0651138696264483,0.179330574817996,NA,NA,NA
+"dependent.var10","unaccompanied_number","na","NA","NA","1.91 (1.23-3)",NA,1.22711938787809,2.59106243030373,NA,NA,NA
+"111","disabled",NA,"no","NA","90% (85%-95%)",NA,0.84769375927532,0.95230624072468,NA,NA,NA
+"25","disabled",NA,"yes","NA","10% (5%-15%)",NA,0.0476937592753199,0.15230624072468,NA,NA,NA
+"dependent.var11","disabled_number","na","NA","NA","1.11 (0.93-1)",NA,0.928349597005392,1.29387262521683,NA,NA,NA
+"112","preg_lacting",NA,"no","NA","69% (61%-77%)",NA,0.608171964663279,0.769605813114499,NA,NA,NA
+"26","preg_lacting",NA,"yes","NA","31% (23%-39%)",NA,0.230394186885501,0.391828035336721,NA,NA,NA
+"dependent.var12","pregnant_number","na","NA","NA","1.54 (1.16-2)",NA,1.1622924421853,1.90913612924327,NA,NA,NA
+"113","memb_left",NA,"no","NA","30% (22%-38%)",NA,0.220100897520191,0.379899102479809,NA,NA,NA
+"27","memb_left",NA,"yes","NA","70% (62%-78%)",NA,0.620100897520191,0.779899102479809,NA,NA,NA
+"dependent.var13","memb_left_nr",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"114","governorate_origin",NA,"aleppo","NA","10% (5%-15%)",NA,0.0476937592753199,0.15230624072468,NA,NA,NA
+"28","governorate_origin",NA,"hasakah","NA","90% (85%-95%)",NA,0.84769375927532,0.95230624072468,NA,NA,NA
+"dependent.var14","governorate_or_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"115","district_origin",NA,"afrin","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"29","district_origin",NA,"ain_al_arab","NA","7% (2%-11%)",NA,0.0231751040040278,0.110158229329305,NA,NA,NA
+"33","district_origin",NA,"al_hasakeh","NA","4% (1%-8%)",NA,0.00851347248783381,0.0803754164010551,NA,NA,NA
+"43","district_origin",NA,"al_malikeyyeh","NA","2% (0%-5%)",NA,-0.0034785443967068,0.0479229888411512,NA,NA,NA
+"51","district_origin",NA,"quamishli","NA","47% (38%-55%)",NA,0.379683541341389,0.553649791991944,NA,NA,NA
+"6","district_origin",NA,"ras_al_ain","NA","37% (28%-45%)",NA,0.28264638331909,0.450686950014243,NA,NA,NA
+"dependent.var15","district_or_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"116","subdistrict_origin",NA,"afrin","NA","2% (0%-5%)",NA,-0.0034785443967068,0.0479229888411512,NA,NA,NA
+"210","subdistrict_origin",NA,"ain_al_arab","NA","7% (2%-11%)",NA,0.0231751040040278,0.110158229329305,NA,NA,NA
+"34","subdistrict_origin",NA,"al_hasakeh","NA","2% (0%-5%)",NA,-0.00347854439670681,0.0479229888411512,NA,NA,NA
+"44","subdistrict_origin",NA,"al_malikeyyeh","NA","2% (0%-5%)",NA,-0.0034785443967068,0.0479229888411512,NA,NA,NA
+"52","subdistrict_origin",NA,"amuda","NA","7% (2%-11%)",NA,0.0231751040040278,0.110158229329305,NA,NA,NA
+"61","subdistrict_origin",NA,"darbasiyah","NA","11% (6%-17%)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"7","subdistrict_origin",NA,"jandairis","NA","1% (-1%-3%)",NA,-0.00716504029946074,0.029387262521683,NA,NA,NA
+"8","subdistrict_origin",NA,"qahtaniyyeh","NA","4% (1%-8%)",NA,0.00851347248783382,0.0803754164010551,NA,NA,NA
+"9","subdistrict_origin",NA,"quamishli","NA","36% (27%-44%)",NA,0.272095488372133,0.439015622738978,NA,NA,NA
+"10","subdistrict_origin",NA,"ras_al_ain","NA","26% (18%-33%)",NA,0.179506983576934,0.331604127534177,NA,NA,NA
+"11","subdistrict_origin",NA,"tal_tamer","NA","2% (0%-5%)",NA,-0.00347854439670681,0.0479229888411512,NA,NA,NA
+"dependent.var16","subdistrict_or_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"117","origin_from_location",NA,"no","NA","67% (58%-75%)",NA,0.584475338856006,0.748857994477327,NA,NA,NA
+"211","origin_from_location",NA,"yes","NA","33% (25%-42%)",NA,0.251142005522673,0.415524661143994,NA,NA,NA
+"118","wait_border",NA,"2_4_hours","NA","21% (14%-28%)",NA,0.139957701020816,0.282264521201406,NA,NA,NA
+"212","wait_border",NA,"4_8_hours","NA","23% (16%-31%)",NA,0.159589800968387,0.30707686569828,NA,NA,NA
+"35","wait_border",NA,"8_24_hours","NA","29% (21%-37%)",NA,0.209863543070274,0.367914234707504,NA,NA,NA
+"45","wait_border",NA,"less_2_hours","NA","16% (9%-22%)",NA,0.0923637800411857,0.218747331069925,NA,NA,NA
+"53","wait_border",NA,"three_days","NA","6% (2%-10%)",NA,0.0156177490024371,0.095493362108674,NA,NA,NA
+"62","wait_border",NA,"two_days","NA","6% (2%-10%)",NA,0.0156177490024371,0.095493362108674,NA,NA,NA
+"119","wait_reception",NA,"2_4_hours","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"213","wait_reception",NA,"4_8_hours","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"36","wait_reception",NA,"8_24_hours","NA","83% (77%-90%)",NA,0.768355383384527,0.89831128328214,NA,NA,NA
+"46","wait_reception",NA,"less_2_hours","NA","4% (1%-8%)",NA,0.00851347248783382,0.0803754164010551,NA,NA,NA
+"54","wait_reception",NA,"two_days","NA","6% (2%-10%)",NA,0.0156177490024371,0.095493362108674,NA,NA,NA
+"120","duration_rc",NA,"2_4_hours","NA","17% (10%-23%)",NA,0.10168871671786,0.231644616615473,NA,NA,NA
+"214","duration_rc",NA,"4_8_hours","NA","6% (2%-10%)",NA,0.0156177490024371,0.095493362108674,NA,NA,NA
+"37","duration_rc",NA,"8_24_hours","NA","32% (24%-40%)",NA,0.240741726888413,0.403702717556032,NA,NA,NA
+"47","duration_rc",NA,"less_2_hours","NA","43% (35%-52%)",NA,0.346934647719235,0.519732018947431,NA,NA,NA
+"55","duration_rc",NA,"two_days","NA","2% (0%-5%)",NA,-0.00347854439670681,0.0479229888411512,NA,NA,NA
+"121","decision_timing",NA,"1_12","NA","9% (4%-14%)",NA,0.0392706136661932,0.138507164111585,NA,NA,NA
+"215","decision_timing",NA,"13_18","NA","3% (0%-6%)",NA,0.00203580813954977,0.0646308585271169,NA,NA,NA
+"38","decision_timing",NA,"19_24","NA","10% (5%-15%)",NA,0.0476937592753199,0.15230624072468,NA,NA,NA
+"48","decision_timing",NA,"6_less","NA","34% (26%-43%)",NA,0.261593665336748,0.427295223552141,NA,NA,NA
+"56","decision_timing",NA,"more_two_days","NA","22% (15%-29%)",NA,0.149736284451157,0.294708159993287,NA,NA,NA
+"63","decision_timing",NA,"one_two_days","NA","21% (14%-28%)",NA,0.139957701020816,0.282264521201406,NA,NA,NA
+"122","direction_choice",NA,"closest","NA","1% (-1%-3%)",NA,-0.00716504029946074,0.0293872625216829,NA,NA,NA
+"216","direction_choice",NA,"direction_af","NA","1% (-1%-3%)",NA,-0.0071650402994608,0.029387262521683,NA,NA,NA
+"39","direction_choice",NA,"direction_family","NA","8% (3%-12%)",NA,0.0310819788506951,0.12447357670486,NA,NA,NA
+"49","direction_choice",NA,"direction_suggested_friends","NA","13% (7%-19%)",NA,0.0740643239693723,0.192602342697294,NA,NA,NA
+"57","direction_choice",NA,"preferred_dest","NA","2% (0%-5%)",NA,-0.0034785443967068,0.0479229888411512,NA,NA,NA
+"64","direction_choice",NA,"safest_routes","NA","74% (67%-82%)",NA,0.668395872465823,0.820493016423066,NA,NA,NA
+"dependent.var17","direction_choice_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"123","stop_points",NA,"no","NA","64% (56%-73%)",NA,0.560984377261022,0.727904511627867,NA,NA,NA
+"217","stop_points",NA,"yes","NA","36% (27%-44%)",NA,0.272095488372133,0.439015622738978,NA,NA,NA
+"124","stop_points_loc_district",NA,"ain_al_arab","NA","6% (-1%-13%)",NA,-0.00901086918589848,0.134010869185898,NA,NA,NA
+"218","stop_points_loc_district",NA,"ain_al_arab quamishli","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"310","stop_points_loc_district",NA,"al_hasakeh","NA","6% (-1%-13%)",NA,-0.00901086918589848,0.134010869185898,NA,NA,NA
+"410","stop_points_loc_district",NA,"al_hasakeh al_malikeyyeh ar_raqqa","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"58","stop_points_loc_district",NA,"al_malikeyyeh","NA","34% (20%-48%)",NA,0.203435542494252,0.484064457505748,NA,NA,NA
+"65","stop_points_loc_district",NA,"al_malikeyyeh quamishli","NA","6% (-1%-13%)",NA,-0.0090108691858985,0.134010869185898,NA,NA,NA
+"71","stop_points_loc_district",NA,"ar_raqqa","NA","6% (-1%-13%)",NA,-0.00901086918589848,0.134010869185898,NA,NA,NA
+"81","stop_points_loc_district",NA,"quamishli","NA","31% (18%-45%)",NA,0.175567110684407,0.449432889315593,NA,NA,NA
+"91","stop_points_loc_district",NA,"quamishli other","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"125","stop_points_location",NA,"ain_al_arab","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"219","stop_points_location",NA,"al_hasakeh","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"311","stop_points_location",NA,"al_malikeyyeh","NA","22% (10%-34%)",NA,0.0966219407035202,0.34087805929648,NA,NA,NA
+"411","stop_points_location",NA,"al_malikeyyeh ar_raqqa","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"59","stop_points_location",NA,"al_malikeyyeh jawadiyah quamishli","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"66","stop_points_location",NA,"al_malikeyyeh quamishli","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"72","stop_points_location",NA,"ar_raqqa","NA","6% (-1%-13%)",NA,-0.00901086918589848,0.134010869185898,NA,NA,NA
+"82","stop_points_location",NA,"jawadiyah","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"92","stop_points_location",NA,"jawadiyah ya_robiyah","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"101","stop_points_location",NA,"qahtaniyyeh","NA","9% (1%-18%)",NA,0.00763951052863597,0.179860489471364,NA,NA,NA
+"1110","stop_points_location",NA,"qahtaniyyeh quamishli","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"12","stop_points_location",NA,"quamishli","NA","22% (10%-34%)",NA,0.0966219407035202,0.34087805929648,NA,NA,NA
+"13","stop_points_location",NA,"sarin","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"14","stop_points_location",NA,"tal_hmis","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"15","stop_points_location",NA,"tal_tamer","NA","3% (-2%-8%)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"16","stop_points_location",NA,"ya_robiyah","NA","6% (-1%-13%)",NA,-0.00901086918589848,0.134010869185898,NA,NA,NA
+"126","transport",NA,"Bus","NA","1% (-1%-3%)",NA,-0.00716504029946081,0.029387262521683,NA,NA,NA
+"220","transport",NA,"Car","NA","42% (34%-51%)",NA,0.336106348121798,0.508338096322646,NA,NA,NA
+"312","transport",NA,"Foot","NA","50% (41%-59%)",NA,0.412822932125533,0.587177067874467,NA,NA,NA
+"412","transport",NA,"Minibus","NA","1% (-1%-3%)",NA,-0.00716504029946074,0.0293872625216829,NA,NA,NA
+"510","transport",NA,"other","NA","4% (1%-8%)",NA,0.00851347248783382,0.0803754164010551,NA,NA,NA
+"67","transport",NA,"truck_tractor","NA","1% (-1%-3%)",NA,-0.00716504029946077,0.029387262521683,NA,NA,NA
+"dependent.var18","transport_other",NA,"Horse","NA","100% ",NA,NA,NA,NA,NA,NA
+"dependent.var19","difficulties",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var20","difficulties_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var21","item_bring",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var22","item_bring_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var23","members_no_id","na","NA","NA","3.5 (2.82-4)",NA,2.82410437448725,4.17589562551275,NA,NA,NA
+"dependent.var24","priority_need",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var25","priority_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"127","intent_two_days",NA,"camp","NA","82% (76%-89%)",NA,0.75556217833927,0.888882266105175,NA,NA,NA
+"221","intent_two_days",NA,"dont_know","NA","1% (-1%-3%)",NA,-0.00716504029946073,0.0293872625216829,NA,NA,NA
+"313","intent_two_days",NA,"family_friends_dohuk","NA","3% (0%-6%)",NA,0.00203580813954976,0.0646308585271169,NA,NA,NA
+"413","intent_two_days",NA,"family_friends_kri","NA","13% (7%-19%)",NA,0.0740643239693724,0.192602342697294,NA,NA,NA
+"dependent.var26","intent_two_days_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"128","intent_gov",NA,"dahuk","NA","27% (7%-46%)",NA,0.0722657456581698,0.461067587675163,NA,NA,NA
+"222","intent_gov",NA,"erbil","NA","67% (46%-87%)",NA,0.459434588570657,0.873898744762676,NA,NA,NA
+"314","intent_gov",NA,"sulaymaniyah","NA","7% (-4%-18%)",NA,-0.0429902417967648,0.176323575130098,NA,NA,NA
+"dependent.var27","intent_gov_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var28","intent_district",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var29","intent_town",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"129","reason_intent",NA,"family_host","NA","17% (10%-23%)",NA,0.10168871671786,0.231644616615473,NA,NA,NA
+"223","reason_intent",NA,"no_choice","NA","66% (57%-74%)",NA,0.572704776447859,0.738406334663252,NA,NA,NA
+"315","reason_intent",NA,"no_options","NA","18% (11%-24%)",NA,0.111117733894825,0.24443782166073,NA,NA,NA
+"dependent.var30","reason_intent_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"dependent.var31","relatives_kri",NA,"yes","NA","100% ",NA,NA,NA,NA,NA,NA
+"130","intent_two_weeks",NA,"family_friends_dohuk","NA","9% (4%-15%)",NA,0.0377104356318713,0.148956231034795,NA,NA,NA
+"224","intent_two_weeks",NA,"family_friends_kri","NA","28% (19%-37%)",NA,0.194146765684055,0.365853234315945,NA,NA,NA
+"316","intent_two_weeks",NA,"no_intention","NA","60% (51%-69%)",NA,0.506326441688191,0.693673558311809,NA,NA,NA
+"414","intent_two_weeks",NA,"own_home","NA","3% (0%-6%)",NA,-0.00413871269656705,0.0574720460299004,NA,NA,NA
+"dependent.var32","intent_two_weeks_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"131","intent_gov_week",NA,"dahuk","NA","17% (5%-28%)",NA,0.0528352843838753,0.280498048949458,NA,NA,NA
+"225","intent_gov_week",NA,"erbil","NA","73% (60%-87%)",NA,0.59826195332219,0.868404713344476,NA,NA,NA
+"317","intent_gov_week",NA,"sulaymaniyah","NA","10% (1%-19%)",NA,0.0083675048474488,0.191632495152551,NA,NA,NA
+"dependent.var33","intent_gov_week_other",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"132","intent_district_week",NA,"chamchamal","NA","7% (-1%-14%)",NA,-0.0095238671902379,0.142857200523571,NA,NA,NA
+"226","intent_district_week",NA,"dahuk","NA","13% (3%-24%)",NA,0.02950313758621,0.237163529080457,NA,NA,NA
+"318","intent_district_week",NA,"erbil","NA","70% (56%-84%)",NA,0.560029051615253,0.839970948384747,NA,NA,NA
+"415","intent_district_week",NA,"shaqlawa","NA","3% (-2%-9%)",NA,-0.0214951208983824,0.0881617875650491,NA,NA,NA
+"511","intent_district_week",NA,"sulaymaniya","NA","3% (-2%-9%)",NA,-0.0214951208983824,0.0881617875650491,NA,NA,NA
+"68","intent_district_week",NA,"sumel","NA","3% (-2%-9%)",NA,-0.0214951208983824,0.0881617875650491,NA,NA,NA
+"dependent.var34","intent_town_week",NA,NA,"NA","NA% ",NA,NA,NA,NA,NA,NA
+"133","intent_return",NA,"no","NA","99% (97%-101%)",NA,0.970612737478317,1.00716504029946,NA,NA,NA
+"227","intent_return",NA,"yes","NA","1% (-1%-3%)",NA,-0.00716504029946075,0.029387262521683,NA,NA,NA
+"dependent.var35","stop_points_loc_district",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var36","stop_points_loc_district.afrin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var37","stop_points_loc_district.ain_al_arab","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863597,0.179860489471364,NA,NA,NA
+"dependent.var38","stop_points_loc_district.al_bab","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var39","stop_points_loc_district.as_safira","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var40","stop_points_loc_district.a_zaz","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var41","stop_points_loc_district.jarablus","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var42","stop_points_loc_district.jebel_saman","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var43","stop_points_loc_district.menbij","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var44","stop_points_loc_district.al_hasakeh","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863597,0.179860489471364,NA,NA,NA
+"dependent.var45","stop_points_loc_district.al_malikeyyeh","na","NA","NA","0.44 (0.29-1)",NA,0.290946328844224,0.584053671155776,NA,NA,NA
+"dependent.var46","stop_points_loc_district.quamishli","na","NA","NA","0.44 (0.29-1)",NA,0.290946328844224,0.584053671155776,NA,NA,NA
+"dependent.var47","stop_points_loc_district.ras_al_ain","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var48","stop_points_loc_district.ar_raqqa","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863601,0.179860489471364,NA,NA,NA
+"dependent.var49","stop_points_loc_district.ath_thawrah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var50","stop_points_loc_district.tell_abiad","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var51","stop_points_loc_district.abu_kamal","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var52","stop_points_loc_district.al_mayadin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var53","stop_points_loc_district.deir_ez_zor","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var54","stop_points_location",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var55","stop_points_location.afrin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var56","stop_points_location.bulbul","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var57","stop_points_location.jandairis","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var58","stop_points_location.ma_btali","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var59","stop_points_location.raju","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var60","stop_points_location.sharan","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var61","stop_points_location.sheikh_el_hadid","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var62","stop_points_location.ain_al_arab","na","NA","NA","0.03 (-0.02-0)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"dependent.var63","stop_points_location.lower_shyookh","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var64","stop_points_location.sarin","na","NA","NA","0.03 (-0.02-0)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"dependent.var65","stop_points_location.al_bab","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var66","stop_points_location.a_rima","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var67","stop_points_location.ar_raee","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var68","stop_points_location.dayr_hafir","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var69","stop_points_location.eastern_kwaires.",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var70","stop_points_location.rasm_haram_el_imam","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var71","stop_points_location.tadaf","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var72","stop_points_location.as_safira","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var73","stop_points_location.banan","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var74","stop_points_location.hajeb","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var75","stop_points_location.khanaser","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var76","stop_points_location.aghtrin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var77","stop_points_location.azaz","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var78","stop_points_location.mare","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var79","stop_points_location.nabul","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var80","stop_points_location.suran","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var81","stop_points_location.tall_refaat","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var82","stop_points_location.ghandorah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var83","stop_points_location.jarablus","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var84","stop_points_location.atareb","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var85","stop_points_location.daret_azza","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var86","stop_points_location.hadher","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var87","stop_points_location.haritan","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var88","stop_points_location.jebel_saman","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var89","stop_points_location.tall_ed_daman","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var90","stop_points_location.zarbah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var91","stop_points_location.abu_qalqal","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var92","stop_points_location.al_khafsa","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var93","stop_points_location.maskana","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var94","stop_points_location.menbij","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var95","stop_points_location.al_hasakeh","na","NA","NA","0.03 (-0.02-0)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"dependent.var96","stop_points_location.areesheh","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var97","stop_points_location.ber_al_hulo_al_wardeyyeh","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var98","stop_points_location.hole","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var99","stop_points_location.markada","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var100","stop_points_location.shadadah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var101","stop_points_location.tal_tamer","na","NA","NA","0.03 (-0.02-0)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"dependent.var102","stop_points_location.al_malikeyyeh","na","NA","NA","0.31 (0.18-0)",NA,0.175567110684407,0.449432889315593,NA,NA,NA
+"dependent.var103","stop_points_location.jawadiyah","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863596,0.179860489471364,NA,NA,NA
+"dependent.var104","stop_points_location.ya_robiyah","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863597,0.179860489471364,NA,NA,NA
+"dependent.var105","stop_points_location.amuda","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var106","stop_points_location.qahtaniyyeh","na","NA","NA","0.12 (0.03-0)",NA,0.0272975525628161,0.222702447437184,NA,NA,NA
+"dependent.var107","stop_points_location.quamishli","na","NA","NA","0.31 (0.18-0)",NA,0.175567110684407,0.449432889315593,NA,NA,NA
+"dependent.var108","stop_points_location.tal_hmis","na","NA","NA","0.03 (-0.02-0)",NA,-0.0201516758422335,0.0826516758422335,NA,NA,NA
+"dependent.var109","stop_points_location.darbasiyah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var110","stop_points_location.ras_al_ain","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var111","stop_points_location.ar_raqqa","na","NA","NA","0.09 (0.01-0)",NA,0.00763951052863601,0.179860489471364,NA,NA,NA
+"dependent.var112","stop_points_location.karama","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var113","stop_points_location.maadan","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var114","stop_points_location.sabka","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var115","stop_points_location.al_thawrah","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var116","stop_points_location.jurneyyeh","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var117","stop_points_location.mansura","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var118","stop_points_location.ein_issa","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var119","stop_points_location.suluk","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var120","stop_points_location.tell_abiad","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var121","stop_points_location.abu_kamal","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var122","stop_points_location.hajin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var123","stop_points_location.jalaa","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var124","stop_points_location.susat","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var125","stop_points_location.al_mayadin","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var126","stop_points_location.ashara","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var127","stop_points_location.thiban","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var128","stop_points_location.basira","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var129","stop_points_location.deir_ez_zor","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var130","stop_points_location.khasham","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var131","stop_points_location.kisreh","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var132","stop_points_location.muhasan","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var133","stop_points_location.sur","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var134","stop_points_location.tabni","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var135","difficulties.no_water","na","NA","NA","0.68 (0.6-1)",NA,0.596297282443968,0.759258273111587,NA,NA,NA
+"dependent.var136","difficulties.no_food","na","NA","NA","0.68 (0.6-1)",NA,0.596297282443968,0.759258273111587,NA,NA,NA
+"dependent.var137","difficulties.no_money","na","NA","NA","0.12 (0.07-0)",NA,0.0651138696264483,0.179330574817996,NA,NA,NA
+"dependent.var138","difficulties.risk_of_mines","na","NA","NA","0.01 (-0.01-0)",NA,-0.0071650402994608,0.029387262521683,NA,NA,NA
+"dependent.var139","difficulties.risk_of_airstrike","na","NA","NA","0.28 (0.2-0)",NA,0.199684001006126,0.35587155454943,NA,NA,NA
+"dependent.var140","difficulties.dangerous_river_crossing.",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var141","difficulties.heat_strong_sun","na","NA","NA","0.07 (0.02-0)",NA,0.0231751040040279,0.110158229329305,NA,NA,NA
+"dependent.var142","difficulties.risk_of_direct_shooting","na","NA","NA","0.21 (0.14-0)",NA,0.139957701020816,0.282264521201406,NA,NA,NA
+"dependent.var143","difficulties.risk_of_indirect_fire.",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var144","difficulties.travelling_children_elderly","na","NA","NA","0.34 (0.26-0)",NA,0.261593665336748,0.427295223552141,NA,NA,NA
+"dependent.var145","difficulties.travelling_disabled_ill","na","NA","NA","0.06 (0.02-0)",NA,0.0156177490024371,0.095493362108674,NA,NA,NA
+"dependent.var146","difficulties.blocked_routes","na","NA","NA","0.12 (0.07-0)",NA,0.0651138696264483,0.179330574817996,NA,NA,NA
+"dependent.var147","difficulties.sleep_open","na","NA","NA","0.17 (0.1-0)",NA,0.10168871671786,0.231644616615473,NA,NA,NA
+"dependent.var148","difficulties.dont_know","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var149","difficulties.none","na","NA","NA","0.04 (0.01-0)",NA,0.00851347248783383,0.080375416401055,NA,NA,NA
+"dependent.var150","item_bring.cash","na","NA","NA","0.91 (0.86-1)",NA,0.861492835888415,0.960729386333807,NA,NA,NA
+"dependent.var151","item_bring.identification_papers","na","NA","NA","0.99 (0.97-1)",NA,0.970612737478317,1.00716504029946,NA,NA,NA
+"dependent.var152","item_bring.water","na","NA","NA","0.22 (0.15-0)",NA,0.149736284451158,0.294708159993287,NA,NA,NA
+"dependent.var153","item_bring.clothes","na","NA","NA","0.68 (0.6-1)",NA,0.596297282443968,0.759258273111587,NA,NA,NA
+"dependent.var154","item_bring.iraqi_registration_papers","na","NA","NA","0.01 (-0.01-0)",NA,-0.00716504029946077,0.029387262521683,NA,NA,NA
+"dependent.var155","item_bring.cars","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var156","item_bring.jewelery_small_assets","na","NA","NA","0.11 (0.06-0)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"dependent.var157","item_bring.household_furniture","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var158","item_bring.food","na","NA","NA","0.11 (0.06-0)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"dependent.var159","item_bring.property_papers","na","NA","NA","0.11 (0.06-0)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"dependent.var160","item_bring.dont_know","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var161","item_bring.none","na","NA","NA","0",NA,0,0,NA,NA,NA
+"dependent.var162","priority_need.clean_water","na","NA","NA","0.44 (0.36-1)",NA,0.357807177846035,0.531081711042854,NA,NA,NA
+"dependent.var163","priority_need.sanitation_services","na","NA","NA","0.11 (0.06-0)",NA,0.0563168925706708,0.165905329651551,NA,NA,NA
+"dependent.var164","priority_need.electricity","na","NA","NA","0.23 (0.16-0)",NA,0.159589800968387,0.30707686569828,NA,NA,NA
+"dependent.var165","priority_need.food","na","NA","NA","0.68 (0.6-1)",NA,0.596297282443968,0.759258273111587,NA,NA,NA
+"dependent.var166","priority_need.shelter","na","NA","NA","0.9 (0.85-1)",NA,0.84769375927532,0.95230624072468,NA,NA,NA
+"dependent.var167","priority_need.heathcare","na","NA","NA","0.41 (0.33-0)",NA,0.325322716486006,0.496899505736216,NA,NA,NA
+"dependent.var168","priority_need.medicine","na","NA","NA","0.19 (0.12-0)",NA,0.120643135134967,0.257134642642811,NA,NA,NA
+"dependent.var169","priority_need.nfis","na","NA","NA","0.31 (0.23-0)",NA,0.230394186885501,0.391828035336721,NA,NA,NA
+"dependent.var170","priority_need.dont_know","na","NA","NA","0.02 (0-0)",NA,-0.00347854439670681,0.0479229888411512,NA,NA,NA
+"dependent.var171","difficulies_border_cross",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var172","difficulies_border_cross.pay_border",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var173","difficulies_border_cross.treated_disrespect",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var174","difficulies_border_cross.discrimination",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var175","difficulies_border_cross.long_waiting",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var176","difficulies_border_cross.unsafe",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var177","difficulies_border_cross.taken_id",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var178","difficulies_border_cross.dont_know",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var179","difficulies_border_cross.refuse_answer",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var180","difficulies_border_cross.other",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
+"dependent.var181","difficulies_border_cross_other",NA,NA,"NA","NA ",NA,NA,NA,NA,NA,NA
